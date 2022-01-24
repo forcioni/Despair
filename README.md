@@ -12,3 +12,8 @@ overused and mundane.
 Either way, the basic functionality is as simple as can be: a sequence
 of multiple-choice questions interspersed with commentary about the
 player based on their MBIT personality type.
+The MBTI assesses 4 aspects of human personality:
+1 - Introversion vs Extroversion
+2 - Sensing vs Intuition
+3 - Feeling vs Thinking
+4 - Judging vs Perceiving
